@@ -348,7 +348,7 @@
     <configuration>
       <toolchains>
         <jdk>
-          <version>1.8</version>
+          <version>1.5</version>
           <vendor>sun</vendor>
         </jdk>
       </toolchains>
